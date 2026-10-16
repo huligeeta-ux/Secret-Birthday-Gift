@@ -173,7 +173,7 @@ const LETTER_SECTIONS = [
   },
   {
     id: 'letter-closing-el',
-    text: "Happy birthday, my love. I love you more than you know. 🫶🏻🎂❤️"
+    text: "Happy birthday,kanchan,may God bless you,. 🫶🏻🎂❤️"
   }
 ];
 ```
